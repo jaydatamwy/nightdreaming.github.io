@@ -1,0 +1,30 @@
+img {
+    float: left;
+    clear: left;
+    margin-right: 20px;
+}
+aside {
+    color: #FFFFFF;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+p {
+    font-size: 3vw;
+    font-family: 'Londrina Shadow', cursive;
+}
+body aside img {
+    width: 100%;
+    height: 100%;
+    padding-bottom: 50px;
+}
+h5 {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 2vw;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+h5 a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
