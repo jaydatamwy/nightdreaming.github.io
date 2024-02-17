@@ -1,0 +1,47 @@
+img {
+    float: left;
+    clear: left;
+    margin-right: 20px;
+}
+article{
+    font-size: large;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    line-height: 150%;
+}
+main {
+	column-count: 2;
+    column-gap:10px;
+    text-align: justify;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+article h2 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 3vw;
+}
+article h2 a {
+    color: #FFFFFF;
+}
+article p a {
+    color: #FFFFFF;
+}
+p {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    color: #FFFFFF;
+    font-size: 2vw;
+    line-height: 150%;
+}
+h5 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 3vw;
+    color: #FFFFFF;
+    line-height: 150%;
+}
+@media only screen and (max-width: 1200px) {
+main {
+	column-count: 1;
+	width: 100%;
+    border-width: 2px;
+}
+}
