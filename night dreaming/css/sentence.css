@@ -1,0 +1,26 @@
+img {
+    float: left;
+    clear: left;
+    margin-right: 20px;
+}
+aside {
+    color: #FFFFFF;
+    font-size: 2vw;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+aside h2 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 2vw;
+}
+aside h2 a {
+    color: #FFFFFF;
+}
+
+p {
+    font-size: 2vw;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    line-height: 150%;
+}
+body aside p {
+    line-height: 150%;
+}
